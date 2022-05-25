@@ -47,7 +47,7 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
             <!--这个jar文件包含Spring框架基本的核心工具类，Spring其它组件要都要使用到这个包里的类，是其它组件的基本核心 -->
-            <version>4.1.0.RELEASE</version>
+            <version>5.2.22.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
